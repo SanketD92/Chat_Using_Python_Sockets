@@ -74,7 +74,6 @@ while True:
             sys.exit()
 
         # We just did not receive anything
-        print('Did not receive anything')
         continue
 
     except Exception as e:
