@@ -1,3 +1,5 @@
 # Sockets_Python
  
-![screenshot](/Assets/Output.gif)
+<p align="center">
+<img src="/Assets/Output.gif"/>
+</p>
